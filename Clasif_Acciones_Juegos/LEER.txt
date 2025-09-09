@@ -1,0 +1,1 @@
+El código es bastante simple, cambias los números si queres en el diccionario para otros resultados. 
