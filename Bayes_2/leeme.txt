@@ -1,0 +1,20 @@
+Cómo Ejecutar el Código
+Instalación (solo la primera vez)
+pip install pandas numpy scikit-learn matplotlib seaborn
+Ejecución
+python deteccion_grooming.py
+Salida Esperada
+======================================================================
+SISTEMA DE DETECCIÓN DE GROOMING
+======================================================================
+
+ Dataset cargado exitosamente
+Total de mensajes: 20
+
+[... análisis completo ...]
+
+Precisión del modelo: 100.00%
+
+[... gráficos se muestran ...]
+
+ ANÁLISIS COMPLETADO
