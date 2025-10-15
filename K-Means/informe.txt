@@ -1,0 +1,12 @@
+El código realiza un análisis de agrupamiento (clustering) de las jurisdicciones argentinas según 
+la cantidad de viviendas habitadas, utilizando el algoritmo K-Means.
+
+Primero normaliza los datos, luego aplica el método del codo para determinar el número óptimo de grupos 
+y finalmente usa k = 3 para clasificar las provincias en tres segmentos:
+
+*Pocas viviendas
+*Cantidad normal de viviendas
+*Muchas viviendas
+
+El resultado muestra a qué grupo pertenece cada jurisdicción y 
+grafica los clusters junto a sus centroides para visualizar las diferencias entre regiones.
